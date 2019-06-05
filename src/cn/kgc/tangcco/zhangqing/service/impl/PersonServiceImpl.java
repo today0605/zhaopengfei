@@ -13,5 +13,11 @@ public class PersonServiceImpl implements PersonService {
 
 	}
 
+	@Override
+	public void haha() {
+		pDao.haha();
+		
+	}
+
 
 }
