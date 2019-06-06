@@ -11,6 +11,7 @@ public class PersonDaoImpl implements PersonDao{
 	public void hehe() {
 		System.out.println("呵呵");
 	}
+
 	  public void run() {
 		  
 	  }
@@ -18,5 +19,9 @@ public class PersonDaoImpl implements PersonDao{
 	  public void eat() {
 		  
 	  }
+
+	public void aaa() {
+		
+	}
 
 }
