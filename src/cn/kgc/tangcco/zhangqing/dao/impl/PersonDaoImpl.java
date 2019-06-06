@@ -17,7 +17,9 @@ public class PersonDaoImpl implements PersonDao{
 	@Override
 	public void hehe() {
 		System.out.println("呵呵");
-		
 	}
+	  public void run() {
+		  
+	  }
 
 }
