@@ -11,7 +11,7 @@ public class PersonDaoImpl implements PersonDao{
 	public void hehe() {
 		System.out.println("呵呵");
 	}
-	public void run() {
+	public void aaa() {
 		
 	}
 
