@@ -14,5 +14,9 @@ public class PersonDaoImpl implements PersonDao{
 	  public void run() {
 		  
 	  }
+	  
+	  public void eat() {
+		  
+	  }
 
 }
